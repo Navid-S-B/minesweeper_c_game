@@ -8,3 +8,7 @@ This project was used to implement function structures, different libraries and 
 arrays in a complex context.
 
 Refer to the assignment spec for more information about this game.
+
+## TO NOTE
+Not all features of the game could be coded, as it was difficult to implement Subset 4
+without the program breaking.
